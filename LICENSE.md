@@ -1,4 +1,4 @@
-# 
+# premium grid trading bot for futures Tool | auto-leverage + slippage-control offers the most advanced grid trading bot for futures, with auto-leverage and slippage-control. Ideal
 
 
 
